@@ -44,3 +44,10 @@ body {
     background-color: white;
     padding: 1em;
 }
+
+#container footer {
+    background-color: #777;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+}
